@@ -1,0 +1,8 @@
+[
+    {
+        "id": "reddit",
+        "name": "Reddit",
+        "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/reddit.json",
+        "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/reddit.png"
+    }
+]
