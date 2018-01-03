@@ -1,0 +1,13 @@
+{
+  "name": "YouTube",
+  "url": "https:\/\/m.youtube.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "[googlevideo.com, gstatic.com, ytimg.com, m.youtube.com]",
+  "isFullscreen": false,
+  "primaryHosts": "m.youtube.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/results?search_query=%{search}&sp=%{type}\",\"filters\":[{\"id\":\"type\",\"type\":\"radio\",\"options\":[{\"name\":\"Any\",\"val\":\"\"},{\"name\":\"Video\",\"val\":\"EgIQAQ\"},{\"name\":\"Channel\",\"val\":\"EgIQAg\"},{\"name\":\"Playlist\",\"val\":\"EgIQAw\"}]}]}",
+  "shortcuts": [
+    "2|https:\/\/m.youtube.com\/feed\/trending|Tending|2"
+  ],
+  "shareUrl": ""
+}
