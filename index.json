@@ -4,5 +4,11 @@
         "name": "Reddit",
         "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/reddit.json",
         "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/reddit.png"
+    },
+    {
+        "id": "youtube",
+        "name": "YouTube",
+        "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/youtube.json",
+        "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/youtube.png"
     }
 ]
