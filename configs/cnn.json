@@ -1,0 +1,12 @@
+{
+  "name": "CNN",
+  "url": "https:\/\/edition.cnn.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "optimizely.com|cnn.com",
+  "isFullscreen": false,
+  "primaryHosts": "cnn.com",
+  "searchUrl": "",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

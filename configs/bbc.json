@@ -1,0 +1,12 @@
+{
+  "name": "BBC",
+  "url": "https:\/\/bbc.com",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "bbc.com|bbci.co.uk|bbc.co.uk",
+  "isFullscreen": false,
+  "primaryHosts": "bbc.com",
+  "searchUrl": "",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": true
+}

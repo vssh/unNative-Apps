@@ -1,0 +1,11 @@
+{
+  "name": "imgur",
+  "url": "https:\/\/imgur.com",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "imgur.com|zdassets.com",
+  "isFullscreen": false,
+  "primaryHosts": "imgur.com",
+  "searchUrl": "",
+  "shortcuts": [],
+  "shareUrl": ""
+}

@@ -1,0 +1,15 @@
+{
+  "name": "IMDb",
+  "url": "https:\/\/m.imdb.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "imdb.com|images-na.ssl-images-amazon.com|media-imdb.com",
+  "isFullscreen": false,
+  "primaryHosts": "imdb.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/find?q=%{search}&s=%{type}\",\"filters\":[{\"id\":\"type\",\"type\":\"radio\",\"options\":[{\"name\":\"All\",\"val\":\"all\"},{\"name\":\"Titles\",\"val\":\"tt\"},{\"name\":\"Names\",\"val\":\"nm\"},{\"name\":\"Episodes\",\"val\":\"ep\"}]}]}",
+  "shortcuts": [
+    "10|https:\/\/m.imdb.com\/trailers?ref_=m_nv_mv_tr|Latest trailers|1",
+    "2|https:\/\/m.imdb.com\/chart\/tvmeter?ref_=m_nv_tv_tvm|Popular TV shows|3",
+    "9|https:\/\/m.imdb.com\/chart\/moviemeter?ref_=m_nv_mv_mvm|Popular Movies|2"
+  ],
+  "shareUrl": ""
+}

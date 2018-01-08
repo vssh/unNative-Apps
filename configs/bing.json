@@ -1,0 +1,12 @@
+{
+  "name": "Bing",
+  "url": "https:\/\/www.bing.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "www.bing.com",
+  "isFullscreen": false,
+  "primaryHosts": "www.bing.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}%{type}\\\/search?q=%{search}\",\"filters\":[{\"id\":\"type\",\"type\":\"radio\",\"options\":[{\"name\":\"All\",\"val\":\"\"},{\"name\":\"Images\",\"val\":\"\\\/images\"},{\"name\":\"Videos\",\"val\":\"\\\/videos\"},{\"name\":\"News\",\"val\":\"\\\/news\"}]}]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Google News",
+  "url": "https:\/\/news.google.com",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "news.google.com|accounts.google.com|i.ytimg.com|gstatic.com|apis.google.com",
+  "isFullscreen": false,
+  "primaryHosts": "news.google.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/search\\\/section\\\/q\\\/%{search}\\\/\",\"filters\":[]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wikipedia",
+  "url": "https:\/\/en.m.wikipedia.org\/wiki\/Main_Page",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "wikimedia.org|wikipedia.org",
+  "isFullscreen": false,
+  "primaryHosts": "wikipedia.org",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/wiki\\\/%{search}\",\"filters\":[]}",
+  "shortcuts": [],
+  "shareUrl": ""
+}
