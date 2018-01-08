@@ -64,5 +64,11 @@
         "name": "Wikipedia",
         "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/wikipedia.json",
         "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/wikipedia.png"
+    },
+    {
+        "id": "bbc",
+        "name": "BBC",
+        "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/bbc.json",
+        "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/bbc.png"
     }
 ]
