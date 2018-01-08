@@ -1,11 +1,12 @@
 {
-  "name": "reddit1",
+  "name": "reddit",
   "url": "https:\/\/www.reddit.com\/",
-  "filterIsBlacklist": true,
-  "thirdPartyDomains": "[c.amazon-adsystem.com, www.googleadservices.com, ssl.google-analytics.com, static.doubleclick.net, pixel.redditmedia.com, www.google-analytics.com, googleads.g.doubleclick.net]",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "www.redditstatic.com|thumbs.gfycat.com|redditmedia.com|i.imgur.com|reddit.com",
   "isFullscreen": false,
-  "primaryHosts": "reddit.com",
+  "primaryHosts": "redd.it;reddit.com",
   "searchUrl": "{\"url\":\"https:\/\/m.reddit.com\/%{subreddit}search?q=%{search}\",\"filters\":[{\"id\":\"subreddit\",\"type\":\"text\",\"name\":\"Subreddit\",\"prefix\":\"r\/\",\"suffix\":\"\/\",\"default\":\"\"}]}",
   "shortcuts": ["2|https:\/\/www.reddit.com\/r\/popular|Popular"],
-  "shareUrl": ""
+  "shareUrl": "https:\/\/%{host}\/submit?url=%{url}&title=%{text}",
+  "allowInsecure": false
 }
