@@ -71,6 +71,84 @@
             "name": "BBC",
             "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/bbc.json",
             "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/bbc.png"
+        },
+        {
+            "id": "allrecipes",
+            "name": "allrecipes",
+            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/allrecipes.json",
+            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/allrecipes.png"
+        },
+        {
+            "id": "amazon",
+            "name": "Amazon",
+            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/amazon.json",
+            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/amazon.png"
+        },
+        {
+            "id": "darksky",
+            "name": "Darksky",
+            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/darksky.json",
+            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/darksky.png"
+        },
+        {
+            "id": "deviantart",
+            "name": "Deviant Art",
+            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/deviantart.json",
+            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/deviantart.png"
+        },
+        {
+            "id": "ebay",
+            "name": "eBay",
+            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/ebay.json",
+            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/ebay.png"
+        },
+        {
+            "id": "github",
+            "name": "GitHub",
+            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/github.json",
+            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/github.png"
+        },
+        {
+            "id": "goodreads",
+            "name": "goodreads",
+            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/goodreads.json",
+            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/goodreads.png"
+        },
+        {
+            "id": "khanacademy",
+            "name": "Khan Academy",
+            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/khanacademy.json",
+            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/khanacademy.png"
+        },
+        {
+            "id": "linkedin",
+            "name": "Linkedin",
+            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/linkedin.json",
+            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/linkedin.png"
+        },
+        {
+            "id": "ndtv",
+            "name": "NDTV",
+            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/ndtv.json",
+            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/ndtv.png"
+        },
+        {
+            "id": "slashdot",
+            "name": "Slashdot",
+            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/slashdot.json",
+            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/slashdot.png"
+        },
+        {
+            "id": "stackoverflow",
+            "name": "Stack Overflow",
+            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/stackoverflow.json",
+            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/stackoverflow.png"
+        },
+        {
+            "id": "twitter",
+            "name": "twitter",
+            "config": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/configs/twitter.json",
+            "icon": "https://raw.githubusercontent.com/vssh/unNative-Apps/master/images/twitter.png"
         }
     ]
 }
