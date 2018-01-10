@@ -1,0 +1,12 @@
+{
+  "name": "twitter",
+  "url": "https:\/\/mobile.twitter.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "twitter.com|twimg.com",
+  "isFullscreen": false,
+  "primaryHosts": "twitter.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/search?q=%{search}\",\"filters\":[]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

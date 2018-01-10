@@ -1,0 +1,12 @@
+{
+  "name": "Khan Academy",
+  "url": "https:\/\/www.khanacademy.org",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "clients1.google.com|www.khanacademy.org|cdn.kastatic.org|s3.amazonaws.com|gstatic.com|cse.google.com|www.google.com|www.googleapis.com",
+  "isFullscreen": false,
+  "primaryHosts": "khanacademy.org",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/search?page_search_query=%{search}\",\"filters\":[]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

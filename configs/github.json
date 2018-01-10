@@ -1,0 +1,12 @@
+{
+  "name": "GitHub",
+  "url": "https:\/\/github.com",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "github.com",
+  "isFullscreen": false,
+  "primaryHosts": "github.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/search?q=%{search}&type=%{type}\",\"filters\":[{\"id\":\"type\",\"type\":\"radio\",\"options\":[{\"name\":\"Repository\",\"val\":\"Repositories\"},{\"name\":\"User\",\"val\":\"Users\"},{\"name\":\"Commit\",\"val\":\"Commits\"},{\"name\":\"Issue\",\"val\":\"Issues\"}]}]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

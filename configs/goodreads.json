@@ -1,0 +1,12 @@
+{
+  "name": "goodreads",
+  "url": "https:\/\/www.goodreads.com",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "gr-assets.com|www.goodreads.com",
+  "isFullscreen": false,
+  "primaryHosts": "goodreads.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/search?search[query]=%{search}\",\"filters\":[]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

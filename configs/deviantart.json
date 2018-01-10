@@ -1,0 +1,12 @@
+{
+  "name": "Deviant Art",
+  "url": "https:\/\/www.deviantart.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "deviantart.com|deviantart.net|www.deviantart.com|dapxl.com",
+  "isFullscreen": false,
+  "primaryHosts": "deviantart.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/%{type}popular-all-time\\\/?q=%{search}\",\"filters\":[{\"id\":\"type\",\"type\":\"radio\",\"options\":[{\"name\":\"All\",\"val\":\"\"},{\"name\":\"Digital\",\"val\":\"digitalart\\\/\"},{\"name\":\"Photos\",\"val\":\"photography\\\/\"},{\"name\":\"Traditional\",\"val\":\"traditional\\\/\"}]}]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

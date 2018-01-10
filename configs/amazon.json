@@ -1,0 +1,12 @@
+{
+  "name": "Amazon",
+  "url": "https:\/\/www.amazon.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "ssl-images-amazon.com|m.media-amazon.com",
+  "isFullscreen": false,
+  "primaryHosts": "amazon.*",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/s\\\/field-keywords=%{search}\",\"filters\":[]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

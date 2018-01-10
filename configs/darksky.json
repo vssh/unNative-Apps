@@ -1,0 +1,12 @@
+{
+  "name": "Darksky",
+  "url": "https:\/\/darksky.net",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "cdn.jsdelivr.net|darksky.net",
+  "isFullscreen": false,
+  "primaryHosts": "darksky.net",
+  "searchUrl": "",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "NDTV",
+  "url": "https:\/\/www.ndtv.com",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "i.ndtvimg.com|ndtvod.bc-ssl.cdn.bitgravity.com|i.gadgets360cdn.com|ndtv.com",
+  "isFullscreen": false,
+  "primaryHosts": "ndtv.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/topic\\\/%{search}\",\"filters\":[]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

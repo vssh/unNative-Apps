@@ -1,0 +1,12 @@
+{
+  "name": "Slashdot",
+  "url": "https:\/\/slashdot.org",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "d3tglifpd8whs6.cloudfront.net|m.slashdot.org|slashdot.org|a.fsdn.com",
+  "isFullscreen": false,
+  "primaryHosts": "slashdot.org",
+  "searchUrl": "",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

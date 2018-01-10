@@ -1,0 +1,12 @@
+{
+  "name": "allrecipes",
+  "url": "https:\/\/allrecipes.com",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "media-allrecipes.com|karma.mdpcdn.com|allrecipes.com|brightcove.vo.llnwd.net|brightcove.com|vjs.zencdn.net|players.brightcove.net|betrad.com",
+  "isFullscreen": false,
+  "primaryHosts": "allrecipes.com",
+  "searchUrl": "{\"url\":\"http:\\\/\\\/%{host}\\\/search\\\/results\\\/?wt=%{search}&ingIncl=%{include}&ingExcl=%{exclude}\",\"filters\":[{\"id\":\"include\",\"type\":\"text\",\"name\":\"Include\",\"default\":\"\",\"prefix\":\"\",\"suffix\":\"\"},{\"id\":\"exclude\",\"type\":\"text\",\"name\":\"Exclude\",\"default\":\"\",\"prefix\":\"\",\"suffix\":\"\"}]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": true
+}

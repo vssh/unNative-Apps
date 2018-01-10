@@ -1,0 +1,12 @@
+{
+  "name": "Stack Overflow",
+  "url": "https:\/\/stackoverflow.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "stackoverflow.com|cdn.sstatic.net|ajax.googleapis.com",
+  "isFullscreen": false,
+  "primaryHosts": "stackoverflow.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/search?q=%{search}\",\"filters\":[]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}
