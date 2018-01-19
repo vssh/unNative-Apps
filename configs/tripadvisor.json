@@ -1,0 +1,12 @@
+{
+  "name": "tripadvisor",
+  "url": "https:\/\/www.tripadvisor.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "static.tacdn.com|www.tamgrt.com|tripadvisor.com",
+  "isFullscreen": false,
+  "primaryHosts": "tripadvisor.com",
+  "searchUrl": "",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

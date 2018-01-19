@@ -1,0 +1,17 @@
+{
+  "name": "The New York Times",
+  "url": "https:\/\/mobile.nytimes.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "nytimes.com|nyt.com",
+  "isFullscreen": false,
+  "primaryHosts": "nytimes.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/search\\\/%{search}%{type}\",\"filters\":[{\"id\":\"type\",\"type\":\"radio\",\"options\":[{\"name\":\"Relevant\",\"val\":\"\"},{\"name\":\"Newest\",\"val\":\"\\\/newest\"},{\"name\":\"Oldest\",\"val\":\"\\\/oldest\"}]}]}",
+  "shortcuts": [
+    "1|https:\/\/mobile.nytimes.com\/opinion\/|Opinion|1",
+    "11|https:\/\/mobile.nytimes.com\/science\/|Science|2",
+    "10|https:\/\/mobile.nytimes.com\/sports\/|Sports|4",
+    "8|https:\/\/mobile.nytimes.com\/arts\/|Arts|3"
+  ],
+  "shareUrl": "",
+  "allowInsecure": false
+}

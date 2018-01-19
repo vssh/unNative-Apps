@@ -1,0 +1,15 @@
+{
+  "name": "Rotten Tomatoes",
+  "url": "https:\/\/www.rottentomatoes.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "cdn.optimizely.com|player.theplatform.com|cdnjs.cloudflare.com|resizing.flixster.com|rottentomatoes.com",
+  "isFullscreen": false,
+  "primaryHosts": "rottentomatoes.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/search\\\/?search=%{search}\",\"filters\":[]}",
+  "shortcuts": [
+    "7|https:\/\/www.rottentomatoes.com\/lists\/theater\/|Box Office|1",
+    "10|https:\/\/www.rottentomatoes.com\/lists\/dvd\/|DVD|2"
+  ],
+  "shareUrl": "",
+  "allowInsecure": false
+}

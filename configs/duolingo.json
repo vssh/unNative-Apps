@@ -1,0 +1,12 @@
+{
+  "name": "duolingo",
+  "url": "https:\/\/www.duolingo.com",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "d35aaqx5ub95lt.cloudfront.net|duolingo.com|cdnjs.cloudflare.com|amazonaws.com|apis.google.com",
+  "isFullscreen": false,
+  "primaryHosts": "duolingo.com",
+  "searchUrl": "",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

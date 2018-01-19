@@ -1,0 +1,12 @@
+{
+  "name": "twitch",
+  "url": "https:\/\/m.twitch.tv\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "usher.ttvnw.net|hls.ttvnw.net|twitchcdn.net|d1xfq2052q7thw.cloudfront.net|static-cdn.jtvnw.net|twitch.tv|algolianet.com|s.jtvnw.net",
+  "isFullscreen": false,
+  "primaryHosts": "twitch.tv",
+  "searchUrl": "",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

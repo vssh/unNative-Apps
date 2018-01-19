@@ -1,0 +1,12 @@
+{
+  "name": "instagram",
+  "url": "https:\/\/www.instagram.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "instagram.com|connect.facebook.net",
+  "isFullscreen": false,
+  "primaryHosts": "instagram.com",
+  "searchUrl": "",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

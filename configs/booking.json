@@ -1,0 +1,12 @@
+{
+  "name": "Booking.com",
+  "url": "https:\/\/www.booking.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "maps.googleapis.com|bstatic.com|csi.gstatic.com|booking.com",
+  "isFullscreen": false,
+  "primaryHosts": "booking.com",
+  "searchUrl": "",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

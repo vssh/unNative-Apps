@@ -1,0 +1,12 @@
+{
+  "name": "Quora",
+  "url": "https:\/\/www.quora.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "cdnjs.cloudflare.com|quoracdn.net|quora.com",
+  "isFullscreen": false,
+  "primaryHosts": "quora.com",
+  "searchUrl": "",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

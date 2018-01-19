@@ -1,0 +1,12 @@
+{
+  "name": "yelp",
+  "url": "https:\/\/m.yelp.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "googleapis.com|yelp.com|cdnjs.cloudflare.com|fl.yelpcdn.com",
+  "isFullscreen": false,
+  "primaryHosts": "yelp.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/search?find_desc=%{search}&find_loc=%{location}\",\"filters\":[{\"id\":\"location\",\"type\":\"text\",\"name\":\"Location\",\"default\":\"\",\"prefix\":\"\",\"suffix\":\"\"}]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "AccuWeather",
+  "url": "https:\/\/m.accuweather.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "accuweather.com|s.go-mpulse.net|c.go-mpulse.net",
+  "isFullscreen": false,
+  "primaryHosts": "accuweather.com",
+  "searchUrl": "",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "WolframAlpha",
+  "url": "https:\/\/m.wolframalpha.com",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "www.wolframcdn.com|wolframalpha.com|wal.wolfram.com",
+  "isFullscreen": false,
+  "primaryHosts": "wolframalpha.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/input\\\/?i=%{search}\",\"filters\":[]}",
+  "shortcuts": [
+    "2|https:\/\/m.wolframalpha.com\/examples\/|Examples|1"
+  ],
+  "shareUrl": "",
+  "allowInsecure": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Yahoo Weather",
+  "url": "https:\/\/weather.yahoo.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "s.yimg.com|aerial.maps.api.here.com|yahoo.com",
+  "isFullscreen": false,
+  "primaryHosts": "yahoo.com",
+  "searchUrl": "",
+  "shortcuts": [
+    "0|https:\/\/www.yahoo.com\/news\/weather\/germany\/stuttgart\/stuttgart-698064|Stuttgart|1"
+  ],
+  "shareUrl": "",
+  "allowInsecure": false
+}

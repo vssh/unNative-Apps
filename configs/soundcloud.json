@@ -1,0 +1,12 @@
+{
+  "name": "Soundcloud",
+  "url": "https:\/\/m.soundcloud.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "soundcloud.com|sndcdn.com",
+  "isFullscreen": false,
+  "primaryHosts": "soundcloud.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/search%{type}?q=%{search}\",\"filters\":[{\"id\":\"type\",\"type\":\"radio\",\"options\":[{\"name\":\"All\",\"val\":\"\"},{\"name\":\"Tracks\",\"val\":\"\\\/tracks\"},{\"name\":\"Playlists\",\"val\":\"\\\/playlists\"},{\"name\":\"People\",\"val\":\"\\\/people\"}]}]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

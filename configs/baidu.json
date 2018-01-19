@@ -1,0 +1,12 @@
+{
+  "name": "Baidu",
+  "url": "https:\/\/baidu.com",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "baidu.com|bdstatic.com",
+  "isFullscreen": false,
+  "primaryHosts": "baidu.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/s?word=%{search}\",\"filters\":[]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

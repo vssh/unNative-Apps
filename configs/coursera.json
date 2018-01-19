@@ -1,0 +1,12 @@
+{
+  "name": "Coursera",
+  "url": "https:\/\/www.coursera.org\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "cdn.speedcurve.com|d3njjcbhbojbot.cloudfront.net|coursera.org",
+  "isFullscreen": false,
+  "primaryHosts": "coursera.org",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/courses?domains=%{domain}&languages=%{lang}&query=%{search}\",\"filters\":[{\"id\":\"domain\",\"type\":\"radio\",\"options\":[{\"name\":\"Business\",\"val\":\"business\"},{\"name\":\"CompSci\",\"val\":\"computer-science\"},{\"name\":\"Science&Engg\",\"val\":\"physical-science-and-engineering\"},{\"name\":\"SocialSci\",\"val\":\"social-sciences\"}]},{\"id\":\"lang\",\"type\":\"radio\",\"options\":[{\"name\":\"English\",\"val\":\"en\"},{\"name\":\"Spanish\",\"val\":\"es\"},{\"name\":\"Chinese\",\"val\":\"zh-CN\"}]}]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

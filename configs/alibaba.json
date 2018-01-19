@@ -1,0 +1,12 @@
+{
+  "name": "Alibaba.com",
+  "url": "https:\/\/m.alibaba.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "alicdn.com|alibaba.com",
+  "isFullscreen": false,
+  "primaryHosts": "alibaba.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/trade\\\/search?SearchText=%{search}\",\"filters\":[]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

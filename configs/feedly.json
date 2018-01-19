@@ -1,0 +1,12 @@
+{
+  "name": "Feedly",
+  "url": "https:\/\/feedly.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "accounts.google.com|feedly.com",
+  "isFullscreen": false,
+  "primaryHosts": "feedly.com",
+  "searchUrl": "{\"url\":\"https:\\\/\\\/%{host}\\\/i\\\/search\\\/%{search}\\\/%{match}\\\/-\\\/%{content}\\\/-\\\/-\",\"filters\":[{\"id\":\"match\",\"type\":\"radio\",\"options\":[{\"name\":\"Any\",\"val\":\"-\"},{\"name\":\"Title\",\"val\":\"title\"},{\"name\":\"Author\",\"val\":\"author\"}]},{\"id\":\"content\",\"type\":\"radio\",\"options\":[{\"name\":\"Any\",\"val\":\"-\"},{\"name\":\"Audio\",\"val\":\"audio\"},{\"name\":\"Video\",\"val\":\"video\"},{\"name\":\"Document\",\"val\":\"doc\"}]}]}",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}

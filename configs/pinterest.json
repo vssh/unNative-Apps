@@ -1,0 +1,12 @@
+{
+  "name": "Pinterest",
+  "url": "https:\/\/www.pinterest.com\/",
+  "filterIsBlacklist": false,
+  "thirdPartyDomains": "pinterest.com|pinimg.com",
+  "isFullscreen": false,
+  "primaryHosts": "pinterest.com",
+  "searchUrl": "",
+  "shortcuts": [],
+  "shareUrl": "",
+  "allowInsecure": false
+}
